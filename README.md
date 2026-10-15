@@ -40,7 +40,7 @@
 
 <p align="center">
   <img height="205" src="https://github-readme-stats.vercel.app/api?username=cadanganacoout-lab&show_icons=true&theme=dark&hide_border=true" />
-  <img height="205" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadanganacoout-lab&layout=compact&theme=dark&hide_border=true" />
+  <img height="245" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadanganacoout-lab&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
