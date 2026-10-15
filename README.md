@@ -14,10 +14,11 @@
 ### 🧠 About Me
 
 - 🎓 Software student exploring **frontend Developer** and **cybersecurity (Soon)**
-- 🎨 Mode: `CREATIVE` — I like Learn Something New 
+- 🎨 Mode: `Interest` — I like Learn Something New 
 - 🌐 Stack focus: **JavaScript**
 - 📍 Based in Ponorogo, East Java, Indonesia
 - ⚡ Currently exploring new things in Life
+- 📖 Motto: If you are curious about something, learn something new
 
 ---
 
@@ -38,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cadanganacoout-lab&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadanganacoout-lab&layout=compact&theme=dark&hide_border=true" />
+  <img height="205" src="https://github-readme-stats.vercel.app/api?username=cadanganacoout-lab&show_icons=true&theme=dark&hide_border=true" />
+  <img height="205" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadanganacoout-lab&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
