@@ -14,14 +14,14 @@
 ### 🧠 About Me
 
 - 🎓 Software student exploring **frontend Developer** and **cybersecurity (Soon)**
-- 🎨 Mode: `CREATIVE` — I like turning ideas into interactive, visual experiences (see my 3D portfolio!)
-- 🌐 Stack focus: **Web / 3D / UI**
+- 🎨 Mode: `CREATIVE` — I like Learn Something New 
+- 🌐 Stack focus: **JavaScript**
 - 📍 Based in Ponorogo, East Java, Indonesia
-- ⚡ Currently exploring new things in web development & security
+- ⚡ Currently exploring new things in Life
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Overall)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
