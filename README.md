@@ -16,7 +16,7 @@
 - 🎓 Software student exploring **frontend Developer** and **cybersecurity (Soon)**
 - 🎨 Mode: `Interest` — I like Learn Something New 
 - 🌐 Stack focus: **JavaScript**
-- 📍 Based in Ponorogo, East Java, Indonesia
+- 📍 Based in Surabaya, East Java, Indonesia
 - ⚡ Currently exploring new things in Life
 - 📖 Motto: If you are curious about something, learn something new
 
